@@ -8,19 +8,19 @@
 <table>
 	<caption>Sky</caption>
 	<tr>
-		<td background-color=#4682B4>SteelBlue</td>
+		<td bgcolor=steelblue>SteelBlue</td>
 		<td>#4682B4</td>
 		<td>70, 130, 180</td>
 		<td>0.58, 0.44, 0.49</td>
 	</tr>
 	<tr>
-		<td background-color=#F0DC42>Buff</td>
+		<td bgcolor=buff>Buff</td>
 		<td>#F0DC42</td>
 		<td>240, 220, 130</td>
 		<td>0.14, 0.79, 0.73</td>
 	</tr>
 	<tr>
-		<td background-color=#98817B>Cinereous</td>
+		<td bgcolor=cinerous>Cinereous</td>
 		<td>#98817B</td>
 		<td>152, 129, 123</td>
 		<td>0.03, 0.12, 0.54</td>
